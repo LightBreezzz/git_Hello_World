@@ -1,10 +1,10 @@
 Hello world!
 
-Getting Started with Version Control
+1. Getting Started with Version Control
 
-*italics*
+2. *italics*
 
-**Полужирный**
+3. **Полужирный**
 
 *  element 1
 * element 2
