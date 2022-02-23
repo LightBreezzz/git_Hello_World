@@ -3,3 +3,5 @@ Hello world!
 Getting Started with Version Control
 
 *italics*
+
+**Полужирный**
